@@ -1,4 +1,4 @@
-[Andy1.txt](https://github.com/nitinkamal-wq/Bug_Tracker/files/13059955/Andy1.txt)# Bug_Tracker
+# Bug_Tracker
 
 #Ouput
 
@@ -12,6 +12,6 @@
 #bug_report_example 
 
 <b>it creates a txt file with bug report</b>
-
+[Andy1.txt](https://github.com/nitinkamal-wq/Bug_Tracker/files/13059955/Andy1.txt)
 
 ![Screenshot (174)](https://github.com/nitinkamal-wq/Bug_Tracker/assets/95277969/b4b68c56-0ede-4926-86c3-16a78d87fc20)
