@@ -9,6 +9,6 @@
 ![bug2](https://github.com/nitinkamal-wq/Bug_Tracker/assets/95277969/9eddeb7d-4285-411c-9be7-c42629fe0699)
 
 
-#About
 
-<i>It provides a centralized platform for teams to report, prioritize, assign, and monitor the progress of these issues throughout the development lifecycle. </i>
+
+
